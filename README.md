@@ -2,6 +2,11 @@
 Simple jQuery Plugin Tabs
 
 #How to use
+1) added
+```html
+link
+```
+
 ```html
 <div class="tabs">
 	<ul>
