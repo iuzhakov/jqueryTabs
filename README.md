@@ -2,7 +2,7 @@
 Simple jQuery Plugin Tabs
 
 #How to use
-'''
+```
 <div class="tabs">
 <ul>
     <li><a href="#one">One</a></li>
@@ -23,4 +23,4 @@ Simple jQuery Plugin Tabs
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe magni, est harum repellendus. Accusantium, nostrum veniam numquam dolores dignissimos culpa quidem ut optio, est quaerat, magnam exercitationem voluptas voluptatem sed!</p>
             <div style="clear:both"></div>
         </div>
- '''
+```
