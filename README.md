@@ -1,3 +1,6 @@
 # jqueryTabs
-Simple jQuery Tabs
+Simple jQuery Plugin Tabs
+
+#How to use
+
  
