@@ -10,7 +10,6 @@
                 var element  = el;
                 var liLength = element.has('li a.active').length;
                 var selector = (liLength !== 0) ? 'li a.active' : 'li:first a';
-
                 return element.find(selector).attr('href');
             }
 
