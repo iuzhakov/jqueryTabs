@@ -2,7 +2,7 @@
 Simple jQuery Plugin Tabs
 
 #How to use
-```
+```html
 <div class="tabs">
 	<ul>
 	    <li><a href="#one">One</a></li>
