@@ -2,11 +2,18 @@
 Simple jQuery Plugin Tabs
 
 #How to use
-1) added
+
+###Step 1: Link required files
 ```html
-link
+<!-- jQuery library (served from Google) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!-- jquery Tabs Javascript file -->
+<script src="js/jquery.tabs.min.js"></script>
+<!-- jquery Tabs CSS file -->
+<link href="css/jquery.tabs.css" rel="stylesheet" />
 ```
 
+###Step 2: Create HTML markup
 ```html
 <div class="tabs">
 	<ul>
